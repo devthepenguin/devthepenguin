@@ -3,7 +3,7 @@
 I'm Shivam- a student developer! 
 I'm currently a **mentor@MajorLeagueHacking** community for the Summer League 2021 Hackathon season & an **author@TheStartup** - The Medium's largest publication with more than 600K subscribers. 
 
-I currently lead a Technical Team for Mobile Software Development at Indian Road Safety Campaign, a part of Solve Foundation where we believe we would be able to make the world better by making it sustainable, creative and innovative by investing in the power of youth and enabling them with resources, mentorship and support that can change the world.
+I currently lead a Technical Team for Mobile Software Development at Indian Road Safety Campaign, a part of Solve Foundation where we believe we would be able to make the world better by making it sustainable, creative and innovative by investing in the power of youth and enabling them with resources, mentorship and support that can change the world. As an individual, I am committed towards SDG 3, 4, and 9.
 
 <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_03.gif" alt="" width="150" height="150"> <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_04.gif" alt="" width="150" height="150">  <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_09.gif" alt="" width="150" height="150"> 
 
