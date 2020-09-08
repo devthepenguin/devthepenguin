@@ -5,7 +5,7 @@ I'm currently a **mentor@MajorLeagueHacking** community for the Summer League 20
 
 I currently lead a Technical Team for Mobile Software Development at Indian Road Safety Campaign, a part of Solve Foundation where we believe we would be able to make the world better by making it sustainable, creative and innovative by investing in the power of youth and enabling them with resources, mentorship and support that can change the world. 
 
-I'm currently working on projects that are commiitted to **SDG 3, 4, and 9**.
+I'm currently working on projects that support **SDG 3, 4, and 9**.
 
 <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_03.gif" alt="" width="150" height="150"> <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_04.gif" alt="" width="150" height="150">  <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_09.gif" alt="" width="150" height="150"> 
 
