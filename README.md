@@ -1,8 +1,8 @@
 ### Hey there 👋
 
 - :man_technologist: I'm Shivam- a student developer! 
-- :octocat: I'm currently a **mentor at Major League Hacking (@mlh)** for the Summer League 2021 Hackathon season.
-- :world_map: I'm a member **@openstreetmap** community and actively contributing to develop solutions for safer mobility. 
+- :octocat: I'm currently a Mentor at Major League Hacking @MLH for the Summer League 2021 Hackathon season.
+- :world_map: I'm a member @openstreetmap community and actively contributing to develop solutions for safer mobility. 
 
 I currently lead a Technical Team for Mobile Software Development at Indian Road Safety Campaign, a part of Solve Foundation where we believe **we would be able to make the world better by making it sustainable, creative and innovative by investing in the power of youth and enabling them with resources, mentorship and support that can change the world.**
 
