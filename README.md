@@ -7,9 +7,9 @@ I currently lead a Technical Team for Mobile Software Development at Indian Road
 
 I'm currently working on projects that support **SDG 3, 4, and 9**.
 
-<img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_03.gif" alt="" width="150" height="150"> <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_04.gif" alt="" width="150" height="150">  <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_09.gif" alt="" width="150" height="150"> 
-
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]() [![Generic badge](https://img.shields.io/badge/Mapsui-Contributor-<COLOR>.svg)](https://github.com/Mapsui/Mapsui/graphs/contributors) [![Generic badge](https://badges.devpost-shields.com/get-badge?name=Portfolio&id=project-id&type=small-logo-left-text-blend&style=flat)](https://devpost.com/shivam-318b?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) [![Generic badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@shivambeniwal)
+
+<img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_03.gif" alt="" width="150" height="150"> <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_04.gif" alt="" width="150" height="150">  <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_09.gif" alt="" width="150" height="150"> 
 
 <!--
 **devthepenguin/devthepenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
