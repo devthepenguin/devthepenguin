@@ -2,7 +2,7 @@
 
 - :man_technologist: I'm Shivam- a student developer! 
 - :octocat: I'm currently a Mentor at **Major League Hacking (MLH)** for the Summer League 2021 Hackathon season.
-- :world_map: I'm a member **OpenStreetMap** community and actively contributing to develop solutions for safer mobility. 
+- :world_map: I'm a member **OpenStreetMap** community and actively contributing to develop solutions for Better, Safer, Stronger Communities. 
 
 I currently lead a Technical Team for Mobile Software Development at Indian Road Safety Campaign, a part of Solve Foundation where we believe **we would be able to make the world better by making it sustainable, creative and innovative by investing in the power of youth and enabling them with resources, mentorship and support that can change the world.**
 
@@ -10,7 +10,9 @@ I currently lead a Technical Team for Mobile Software Development at Indian Road
 
 I'm currently working on projects that support **SDG 3, 4, and 9**.
 
+
 <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_03.gif" alt="" width="150" height="150"> <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_04.gif" alt="" width="150" height="150">  <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_09.gif" alt="" width="150" height="150"> 
+
 
 <!--
 **devthepenguin/devthepenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
