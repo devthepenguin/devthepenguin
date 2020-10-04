@@ -2,7 +2,7 @@
 
 - :man_technologist: I'm Shivam- a student technologist! 
 - :octocat: I'm currently a Hackathon Partner- Mentor & Judge at **Major League Hacking (MLH)** Summer League 2021 Hackathon season.
-- :world_map: I'm a member of **OpenStreetMap** community and actively contributing to develop solutions for Better, Safer, Stronger Communities. 
+- :world_map: I'm a member of **OpenStreetMap** community actively contributing to develop solutions for Better, Safer, Stronger Communities. 
 
 I currently lead a Technical Team for Mobile Software Development at Indian Road Safety Campaign, a part of Solve Foundation where we believe **we would be able to make the world better by making it sustainable, creative and innovative by investing in the power of youth and enabling them with resources, mentorship and support that can change the world.**
 
