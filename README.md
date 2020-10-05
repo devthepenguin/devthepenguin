@@ -11,7 +11,7 @@ I currently lead a Technical Team for Mobile Software Development at Indian Road
 I'm currently working on non-profit projects that support **SDG 3, 6, 9, 12, 14**.
 
 
-<img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_03.gif" alt="" width="150" height="150"> <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_04.gif" alt="" width="150" height="150">  <img src="https://github.com/devthepenguin/devthepenguin/blob/master/E_GIF_09.gif" alt="" width="150" height="150"> 
+<img src="https://raw.githubusercontent.com/devthepenguin/devthepenguin/master/E_GIF_03.gif" alt="" width="150" height="150"> <img src="https://raw.githubusercontent.com/devthepenguin/devthepenguin/master/SDG-6.gif" alt="" width="150" height="150"> <img src="https://raw.githubusercontent.com/devthepenguin/devthepenguin/master/E_GIF_12.gif" alt="" width="150" height="150"> <img src="https://raw.githubusercontent.com/devthepenguin/devthepenguin/master/E_GIF_09.gif" alt="" width="150" height="150">  <img src="https://raw.githubusercontent.com/devthepenguin/devthepenguin/master/E_GIF_14.gif" alt="" width="150" height="150"> 
 
 
 <!--
