@@ -4,9 +4,17 @@
 - :octocat: I'm currently a Hackathon Partner- Mentor & Judge at **Major League Hacking (MLH)** Summer League 2021 Hackathon season.
 - :world_map: I'm a member of **OpenStreetMap** community actively contributing to develop solutions for Better, Safer, Stronger Communities. 
 
+<img align=centre src="https://raw.githubusercontent.com/devthepenguin/devthepenguin/master/Resources/solve.png" alt="" width="85" height="66.71"> 
+
 I currently lead Non-profit products and Mobile Dev teams at [Solve Foundation](https://solvefoundation.org/) where we believe **we would be able to make the world better by making it sustainable, creative and innovative by investing in the power of youth and enabling them with resources, mentorship and support that can change the world.**
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]() [![Generic badge](https://img.shields.io/badge/Mapsui-Contributor-<COLOR>.svg)](https://github.com/Mapsui/Mapsui/graphs/contributors) [![Generic badge](https://badges.devpost-shields.com/get-badge?name=Portfolio&id=project-id&type=small-logo-left-text-blend&style=flat)](https://devpost.com/shivam-318b?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) [![Generic badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@shivambeniwal)
+
+### Communities & Organizations
+
+<img src="https://raw.githubusercontent.com/devthepenguin/devthepenguin/master/Resources/irsc_logo.png" alt="" width="275" height="60"> 
+
+<img src="https://raw.githubusercontent.com/devthepenguin/devthepenguin/master/Resources/logo-new.png" alt="" width="275" height="60">
 
 I'm currently working on non-profit projects that support **SDG 3, 6, 9, 12, 14**.
 
